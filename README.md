@@ -1,6 +1,6 @@
 # VMware Keygen GUI
 
-Cet outil est un générateur de clés graphique pour les produits VMware. Il permet aux utilisateurs de générer, copier et exporter des clés produit pour diverses versions de VMware. L'application est construite avec Java Swing et offre une interface graphique intuitive.
+Cet outil est un générateur de clés graphique pour les produits VMware (De la version 4 a la version 17). Il permet aux utilisateurs de générer, copier et exporter des clés produit pour diverses versions de VMware. L'application est construite avec Java Swing et offre une interface graphique intuitive.
 
 ## Fonctionnalités
 
