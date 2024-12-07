@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Dany\Desktop\VMware KeyGen\out\artifacts\VMware_KeyGen\VMware KeyGen.jar</jar>
+  <outfile>C:\Users\Dany\Desktop\VMware KeyGen.exe</outfile>
+  <errTitle>VMware KeyGen - Error</errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>https://download.oracle.com/java/23/latest/jdk-23_windows-x64_bin.exe</downloadUrl>
+  <supportUrl>https://github.com/danbenba/vmware-keygen</supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\Dany\Downloads\Design-sans-titre_1_-Photoroom.ico</icon>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>true</requiresJdk>
+    <requires64Bit>true</requires64Bit>
+    <minVersion>23.0.1</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.5.2</fileVersion>
+    <txtFileVersion>1.0</txtFileVersion>
+    <fileDescription>KeyGen For VMware Workstation</fileDescription>
+    <copyright>Copyrignt danbenba 2024</copyright>
+    <productVersion>1.0.5.2</productVersion>
+    <txtProductVersion>1.0</txtProductVersion>
+    <productName>VMware KeyGen</productName>
+    <companyName>AlgoForge</companyName>
+    <internalName>VMware Keygen</internalName>
+    <originalFilename>vmkey-prod.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+  <messages>
+    <startupErr>An error occurred while starting the application.</startupErr>
+    <jreNotFoundErr>This application requires a Java Runtime Environment (jdk 23.0.1).</jreNotFoundErr>
+    <jreVersionErr>This application requires a Java Runtime Environment (jdk 23.0.1)</jreVersionErr>
+    <launcherErr>The registry refers to a nonexistent Java Runtime Environment installation or the runtime is corrupted.</launcherErr>
+    <instanceAlreadyExistsMsg>An application instance is already running.</instanceAlreadyExistsMsg>
+  </messages>
+</launch4jConfig>

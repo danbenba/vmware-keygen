@@ -1,0 +1,3 @@
+Main-Class: fr.danbenba.vmwarekeygen.KeygenGUI
+Manifest-Version: 1.0
+
